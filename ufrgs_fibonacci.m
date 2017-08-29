@@ -1,6 +1,6 @@
 function [F] = ufrgs_fibonacci(i)
 
-F=
+F=1
 
 end
 
